@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+Original content: [Brad Traversy](https://github.com/bradtraversy/breaking-bad-cast)
 ## Available Scripts
 
 In the project directory, you can run:
